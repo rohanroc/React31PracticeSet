@@ -10,6 +10,7 @@ function One() {
     }
     return (
         <div>
+            <h1>Project 1</h1>
             <button onClick={incriment}>+</button>
             <span>{count}</span>
             <button onClick={decrement}>-</button>
