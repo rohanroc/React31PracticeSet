@@ -1,4 +1,5 @@
 import One from "./assets/Components/one"
+import Three from "./assets/Components/Three"
 import Two from "./assets/Components/Two"
 function App() {
 
@@ -7,6 +8,7 @@ function App() {
     <>
       <One />
       <Two />
+      <Three />
     </>
   )
 }
